@@ -8,4 +8,5 @@ def my_select(collection)
       new_collection << collection[i]
     end
   end
+  new_collection
 end
